@@ -10,4 +10,4 @@ Proyek ini melakukan scraping berita dari indeks Kompas.com, membersihkan teks, 
 
 ## Cara Menjalankan
 1. Install library: `pip install -r requirements.txt`
-2. Jalankan notebook `scraping_kompas.ipynb`
+2. Jalankan notebook `Kompas_Scrapping.ipynb`
